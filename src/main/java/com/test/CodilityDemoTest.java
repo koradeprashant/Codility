@@ -11,7 +11,7 @@ public class CodilityDemoTest {
 		
 	}
 	
-	private static int smallestInt(int[] A) {
+	public static int smallestInt(int[] A) {
 		
 		Set<Integer> uniq = new HashSet<>();
 		for (int i = 0; i < A.length; i++) {

@@ -36,25 +36,6 @@ public class Test2 {
 		System.out.println(new Test2().solution(A));
 
 	}
-	
-	public int solution2(int[][] A) {
-		if (A == null || A.length == 0 || A[0].length == 0) {
-			return 0;
-		}
-		
-		int N = A.length;
-		int M = A[0].length;
-
-		int numberOfCountries = 0;
-		
-		
-		
-		return numberOfCountries;
-		
-	}
-	
-	
-	
 
 	public int solution(int[][] A) {
 		if (A == null || A.length == 0 || A[0].length == 0) {
