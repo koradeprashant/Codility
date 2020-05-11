@@ -1,4 +1,4 @@
-package com.test;
+package com.lessons;
 
 import java.awt.Point;
 import java.util.ArrayList;
